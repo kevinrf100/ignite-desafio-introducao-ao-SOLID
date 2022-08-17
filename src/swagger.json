@@ -1,8 +1,8 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "User documentation",
-        "description": "This is a API to user",
+        "title": "User API documentation",
+        "description": "This is an API to administer users",
         "version": "1.0.0",
         "contact": "kevinrf100@gmail.com"
     },
