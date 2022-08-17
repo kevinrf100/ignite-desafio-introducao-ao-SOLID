@@ -1,4 +1,4 @@
-# Desafio 04 - Introdução ao SOLID
+# Desafio 04 e 05 - Introdução ao SOLID e ao swagger
 
 # 💻 Sobre o desafio
 
