@@ -1,3 +1,4 @@
+![cover-node js](https://user-images.githubusercontent.com/30449737/187058594-314b2fd9-8c0b-476d-a291-386c774baf63.png)
 # Desafio 04 - Introdução ao SOLID
 
 # 💻 Sobre o desafio
